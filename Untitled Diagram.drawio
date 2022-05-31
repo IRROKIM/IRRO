@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T10:18:50.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="im9ry25uUhAMqbpqJq5L" version="17.4.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-31T10:39:26.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="FSkRGg5zVdqbtaCZ1b-m" version="17.4.5" type="github" pages="7">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Q3">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lCTsMt4DWsGQYDhc63Y_-12" value="&lt;b&gt;200px x 300px이 아닌 320px인 이유?&lt;/b&gt;&lt;br&gt;&lt;br&gt;= 아래와 같이 박스크기의 기준을 어떻게 하냐에 따른 다른데,&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp;기본설정이 콘텐츠 영역을 기준으로 하기 때문입니다." style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#A680B8;" vertex="1" parent="1">
+        <mxCell id="lCTsMt4DWsGQYDhc63Y_-12" value="&lt;b&gt;200px x 300px이 아닌 320px인 이유?&lt;/b&gt;&lt;br&gt;&lt;br&gt;= 아래와 같이 박스크기의 기준을 어떻게 하냐에 따라 다른데,&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp;기본설정이 콘텐츠 영역을 기준으로 하기 때문입니다." style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#A680B8;" vertex="1" parent="1">
           <mxGeometry x="400" y="530" width="440" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lCTsMt4DWsGQYDhc63Y_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#050505;endArrow=classic;endFill=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="lCTsMt4DWsGQYDhc63Y_-16">
@@ -66,7 +66,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pP2Amr118pRWXP-afI6A" name="Q4-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
         <mxCell id="uWAPfvvIbVocckOVCkJE-1" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;마진병합은 아래와 같은 상황에서 발생합니다.&lt;br&gt;&lt;/b&gt;&lt;br&gt;1. 인접 형제 요소간 마진 병합이 발생합니다.&lt;br&gt;2. 부모와 자손을 분리하는 콘텐츠가 없는 경우 발생합니다.&lt;br&gt;( 부모의 테두리, 인라인, 패딩 등 )&lt;br&gt;3. 위 아래 마진만 병합.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#050505;strokeColor=#A680B8;strokeWidth=0.5;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="680" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="6EolCEhgeUeRJVcmwmHb-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;imageBorder=default;strokeWidth=0.5;" vertex="1" parent="1">
+        <mxCell id="6EolCEhgeUeRJVcmwmHb-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;imageBorder=#A680B8;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="80" y="401" width="362" height="169" as="geometry" />
         </mxCell>
         <mxCell id="WC2iSc7Z6dM6G4pWd70d-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#050505;strokeColor=#A680B8;strokeWidth=0.5;fillColor=#333333;" vertex="1" parent="1">
@@ -125,7 +125,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Q4-2" id="AbAyObxjj7xgl4vbbTGo">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="OoufTmjKOeUnLgN45vva-0" />
         <mxCell id="OoufTmjKOeUnLgN45vva-1" parent="OoufTmjKOeUnLgN45vva-0" />
@@ -181,7 +181,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Q4-3" id="-k5BVmzaLTAmiiBNSMFz">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_0HRArcbb4GVYmUcvVI7-0" />
         <mxCell id="_0HRArcbb4GVYmUcvVI7-1" parent="_0HRArcbb4GVYmUcvVI7-0" />
@@ -240,7 +240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Q4-4" id="GdODppySvQa3QLH4klYl">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CwhE5cS5PRbDXVJp8f-b-0" />
         <mxCell id="CwhE5cS5PRbDXVJp8f-b-1" parent="CwhE5cS5PRbDXVJp8f-b-0" />
@@ -296,7 +296,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Q4-5" id="YHZpLRGYMyICaZjGeRDl">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="M6U0XeCSpN28NbLEPSu1-0" />
         <mxCell id="M6U0XeCSpN28NbLEPSu1-1" parent="M6U0XeCSpN28NbLEPSu1-0" />
@@ -352,7 +352,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="다른 경우의 수" id="FITg5YoljaMEvYpdCLgV">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="pAyWtReb1YwAaDOs2bax-0" />
         <mxCell id="pAyWtReb1YwAaDOs2bax-1" parent="pAyWtReb1YwAaDOs2bax-0" />
@@ -364,10 +364,10 @@
         <mxCell id="pAyWtReb1YwAaDOs2bax-3" value="Q4" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="pAyWtReb1YwAaDOs2bax-1">
           <mxGeometry x="80" y="40" width="680" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pAyWtReb1YwAaDOs2bax-4" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;&lt;u&gt;마진 경합 예시 외&amp;nbsp;&lt;/u&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;&lt;u&gt;다른 경우의 수에 대한 풀이입니다.&lt;/u&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="pAyWtReb1YwAaDOs2bax-3">
-          <mxGeometry x="240" y="40" width="200" height="70" as="geometry" />
+        <mxCell id="pAyWtReb1YwAaDOs2bax-4" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;&lt;u&gt;마진 병합 예시 외&amp;nbsp;&lt;/u&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;맑은 고딕&quot;&gt;&lt;u&gt;다른 경우의 수에 대한 풀이입니다.&lt;/u&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="pAyWtReb1YwAaDOs2bax-3">
+          <mxGeometry x="241" y="40" width="198" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pAyWtReb1YwAaDOs2bax-5" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;변형 예시 풀이에 대한 정리&lt;br&gt;&lt;/b&gt;&lt;br&gt;형제 요소간 마진 병합이 발생하고, 부모 자식 간에는 부모요소에 구분할 수 있는 콘텐츠 ( 테두리, 인라인, 패딩 등 ) 가 있으면&lt;br&gt;마진 병합이 이루어지지 않습니다.&lt;br&gt;&lt;br&gt;자식요소의 마진이 병합될 때에는 부모 요소 바깥으로 나가는데 구분점이 있으면 나갈 수 없게 되어있는 것을 알 수 있었습니다.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#050505;strokeColor=#A680B8;strokeWidth=0.5;align=center;" vertex="1" parent="pAyWtReb1YwAaDOs2bax-1">
+        <mxCell id="pAyWtReb1YwAaDOs2bax-5" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;변형 예시 풀이에 대한 정리&lt;br&gt;&lt;/b&gt;&lt;br&gt;형제 요소간 마진 병합이 발생하고, 부모 자식 간에는 부모 요소에 구분할 수 있는 콘텐츠 ( 테두리, 인라인, 패딩 등 ) 가 있으면&lt;br&gt;마진 병합이 이루어지지 않습니다.&lt;br&gt;&lt;br&gt;자식요소의 마진이 병합될 때에는 부모 요소 바깥으로 나가는데 구분점이 있으면 나갈 수 없게 되어있는 것을 알 수 있었습니다.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#050505;strokeColor=#A680B8;strokeWidth=0.5;align=center;" vertex="1" parent="pAyWtReb1YwAaDOs2bax-1">
           <mxGeometry x="80" y="200" width="680" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pAyWtReb1YwAaDOs2bax-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;fontColor=#050505;fillColor=#76608a;strokeColor=#A680B8;" edge="1" parent="pAyWtReb1YwAaDOs2bax-1">
@@ -417,6 +417,12 @@
         </mxCell>
         <mxCell id="kE2_R0NXoOvOuVMY58AV-7" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;마진 병합이 일어난다.&lt;br&gt;&lt;/b&gt;&lt;br&gt;형제 요소 간에는 테두리가 있어도 마진 병합이 발생하였습니다.&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#A680B8;strokeWidth=0.5;align=center;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="pAyWtReb1YwAaDOs2bax-1">
           <mxGeometry x="310" y="920" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kE2_R0NXoOvOuVMY58AV-13" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;fontColor=#050505;fillColor=#76608a;strokeColor=#A680B8;" edge="1" parent="pAyWtReb1YwAaDOs2bax-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1120" as="sourcePoint" />
+            <mxPoint x="760" y="1120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
